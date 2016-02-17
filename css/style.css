@@ -68,6 +68,10 @@ hr {
   width: 100%;
 }
 
+.wrap {
+  padding-left: 30px;
+  padding-right: 30px;
+}
 .wrap img {
   padding-left: 30px;
   padding-right: 0px;
@@ -92,8 +96,6 @@ hr {
   margin: 0px 0px 0px 0px;
   color: white;
 }
-
-.banner img {}
 
 #nav {
   list-style-type: none;
